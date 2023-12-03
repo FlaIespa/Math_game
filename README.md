@@ -18,7 +18,7 @@ The Math Game is a Flask-based web application designed to provide an engaging w
 
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone https://github.com/FlaIespa/Math_game.git
 
 # Navigate to the project directory
 cd [project-directory]
